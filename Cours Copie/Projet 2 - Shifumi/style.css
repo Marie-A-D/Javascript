@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Roboto&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Playfair Display", sans-serif;
+    background: url(/Cours/projet2/background_multicolor.png) no-repeat center /cover;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 120vh;
+}
+
+.p{
+    background: url(/Cours/projet2/des-pierres.png) no-repeat center /cover;
+    height: 4vw;
+    width: 4vw;
+}
+
+.f{
+    background: url(/Cours/projet2/papier.png) no-repeat center /cover;
+    height: 4vw;
+    width: 4vw;
+}
+
+
+.c{
+    background: url(/Cours/projet2/les-ciseaux.png) no-repeat center /cover;
+    height: 4vw;
+    width: 4vw;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
